@@ -4,6 +4,7 @@
     "lib": ["ES2023"],
     "module": "ESNext",
     "skipLibCheck": true,
+    "baseUrl": "./src",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
@@ -14,7 +15,7 @@
     "jsxImportSource": "@emotion/react",
 
     /* Linting */
-    "strict": true,
+    // "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true

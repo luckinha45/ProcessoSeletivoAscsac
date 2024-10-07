@@ -1,0 +1,6 @@
+{
+    "require": {
+        "leafs/leaf": "*",
+        "leafs/cors": "^1.2"
+    }
+}
